@@ -1,8 +1,6 @@
-Below is a sample `README.md` that describes how to use the provided Python script for downloading YouTube comments into a CSV file. This script utilizes the `tkinter` library for a graphical user interface (GUI) and requires a valid YouTube API key to fetch comments.
-
----
-
 # YouTube Comments Downloader
+
+![App Screenshot](app.png)
 
 This Python script provides a GUI for downloading comments from a YouTube video into a CSV file. It uses the YouTube Data API v3 and `tkinter` for the interface.
 
