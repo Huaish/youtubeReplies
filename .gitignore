@@ -2,6 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,executable,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,macos,executable,python
 
+my_api_key.txt
+
 ### Executable ###
 *.app
 *.bat
@@ -21,7 +23,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*

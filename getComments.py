@@ -8,7 +8,7 @@ from urllib.parse import parse_qs
 header = ['reply_id','ru_name', 'reply_time', 'reply_content', 'rm_positive', 'reply_from']
 headerName = ['id', '姓名', '回覆時間', '回覆內容', '按讚數量', '回覆來源']
 
-YOUTUBE_API_KEY = "AIzaSyCtBckVbVCmGNjuk4u5ZuHvO49LTEGooQ0"
+YOUTUBE_API_KEY = "YOUR_API_KEY"
 
 
 def main():
